@@ -1,0 +1,28 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* nav */
+.nav
+{
+    /* background-color: black; */
+}
+.nav-list
+{
+    list-style-type:none;
+    width: 100%;
+}
+.logo
+{
+    color:aquamarine;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.nav-list > li
+{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+}

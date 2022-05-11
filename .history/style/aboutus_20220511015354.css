@@ -1,0 +1,14 @@
+.hotel-about-image
+{
+    background-image:url('../images/hotel-img-7.jpg');
+    height:500px;
+    width:100%;
+    background-size:cover;
+    text-align: center;
+}
+/* section 2 */
+.about-header
+{
+    font:bold 40px sans-serif;
+    color:white;
+}

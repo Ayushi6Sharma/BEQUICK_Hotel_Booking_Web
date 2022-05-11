@@ -1,0 +1,10 @@
+.social
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.social-contact >a 
+{
+    border: 1px solid aqua;
+}

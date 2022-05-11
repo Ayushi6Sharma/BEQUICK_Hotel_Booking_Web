@@ -1,0 +1,27 @@
+@media screen and (max-width:480px){
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+    }
+    .hotel-main-image
+    {
+        background-image:url("../images/hotel-img-4.jpg")
+    }
+    .hotel-main-image-content
+    {
+        font-size:30px;
+        line-height: 60px;
+    }
+    .bookings-btn
+    {
+        margin-top: 10%;
+    }
+}
+@media screen and (min-width:480px) and (max-width:768px){
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+    }
+}

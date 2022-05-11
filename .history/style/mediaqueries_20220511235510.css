@@ -1,0 +1,38 @@
+@media screen and (max-width:480px){
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+    }
+    .hotel-main-image
+    {
+        height: 400px;
+    }
+    .hotel-main-image-content
+    {
+        font-size:30px;
+        line-height: 60px;
+    }
+    .bookings-btn
+    {
+        margin-top: 10%;
+    }
+}
+@media screen and (min-width:480px) and (max-width:768px){
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+    }
+    
+    .hotel-main-image-content
+    {
+        font-size:40px;
+        line-height: 60px;
+        padding-top: 20%;
+    }
+    .bookings-btn
+    {
+        margin-top: 10%;
+    }
+}

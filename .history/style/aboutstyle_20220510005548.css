@@ -1,0 +1,83 @@
+.aboutflex
+{
+    display: flex;
+    justify-content: space-around;
+}
+.social
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.fa
+{
+    color:aqua;
+}
+.social-contact a
+{
+    padding:20px;
+}
+[type="text"]
+{
+    width:300px;
+    height: 60px;
+    border:none;
+    outline: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    /* border:1px solid grey; */
+    border-radius:20px;
+    box-shadow:2px 2px 5px 1px lightgrey;
+    margin:20px;
+    padding: 15px;
+}
+::placeholder
+{
+    font-size: 17px;
+}
+textarea
+{
+    width:300px;
+    height: 200px;
+    border:none;
+    outline: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    border-radius:20px;
+    box-shadow:2px 2px 5px 2px lightgrey;
+    margin:20px;
+    padding: 15px;
+}
+.submit
+{
+    width:250px;
+    height: 60px;
+    background-color: black;
+    color:white;
+    border-radius: 40px;
+    text-align: center;
+    font-size:25px;
+    font-family: sans-serif;
+}
+.submit:hover
+{
+    color:aqua;
+    cursor: pointer;
+}
+.contact-info-heading
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+.contact-info-heading > div
+{
+    padding-top: 20px;
+    color:grey;
+    text-align: center;
+}

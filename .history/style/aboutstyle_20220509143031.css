@@ -1,0 +1,14 @@
+.social
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.social-contact i
+{
+    color:aqua;
+}
+.social-contact a
+{
+    padding:20px;
+}

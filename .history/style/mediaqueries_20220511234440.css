@@ -1,0 +1,10 @@
+@media screen and (max-width:480px){
+    .nav-list >li
+    {
+        width:100%;
+        float:left;
+    }
+}
+@media screen and (min-width:480px) and (max-width:768px){
+    
+}
