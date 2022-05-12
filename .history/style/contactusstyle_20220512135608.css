@@ -106,15 +106,15 @@ textarea
     color:grey;
     font-size: 25px;
 }
-.social-contact >a
+.about-social-contact >a
 {
     padding-left: 20px;
 }
-.contact-content
+.about-contact-content
 {
     padding-left: 20px;
 }
-.contact-location-content-br
+.about-location-content-br
 {
     padding-left: 70px;
 }

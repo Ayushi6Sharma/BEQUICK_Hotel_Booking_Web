@@ -31,10 +31,6 @@
     {
         font-size: 20px;
     }
-    .hotel-about-image
-    {
-        height: 400px;
-    }
     .about-image
     {
         width:100%;
@@ -57,10 +53,6 @@
     .flex2-container2 > div
     {
         margin-top: 20px;
-    }
-    .hotel-contact-image
-    {
-        height: 400px;
     }
     .location-content
     {
@@ -94,23 +86,14 @@
     {
         font-size: 35px;
     }
-    .hotel-booking-image
-    {
-        height: 400px;
-    }
     [type="text"],[type="date"]
     {
-        width:290px;
+        width:300px;
     }
     .submit
     {
         width:200px;
         font-size: 20px; ;
-    }
-    /* copyright */
-    .copyright
-    {
-        padding-top: 20px;
     }
 
 }
@@ -206,11 +189,6 @@
     {
         width:230px;
         font-size: 22px; ;
-    }
-    /* copyright */
-    .copyright
-    {
-        padding-top: 20px;
     }
 
 }

@@ -8,7 +8,7 @@
     }
     .hotel-main-image
     {
-        height: 400px;
+        height: 300px;
     }
     .hotel-main-image-content
     {
@@ -30,10 +30,6 @@
     .facilities-content
     {
         font-size: 20px;
-    }
-    .hotel-about-image
-    {
-        height: 400px;
     }
     .about-image
     {
@@ -57,10 +53,6 @@
     .flex2-container2 > div
     {
         margin-top: 20px;
-    }
-    .hotel-contact-image
-    {
-        height: 400px;
     }
     .location-content
     {
@@ -93,10 +85,6 @@
     .form-heading
     {
         font-size: 35px;
-    }
-    .hotel-booking-image
-    {
-        height: 400px;
     }
     [type="text"],[type="date"]
     {

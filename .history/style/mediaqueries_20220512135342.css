@@ -58,7 +58,7 @@
     {
         margin-top: 20px;
     }
-    .hotel-contact-image
+    .hotel-location-image
     {
         height: 400px;
     }
@@ -93,10 +93,6 @@
     .form-heading
     {
         font-size: 35px;
-    }
-    .hotel-booking-image
-    {
-        height: 400px;
     }
     [type="text"],[type="date"]
     {
