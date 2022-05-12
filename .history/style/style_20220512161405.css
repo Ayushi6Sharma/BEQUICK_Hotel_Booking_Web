@@ -73,7 +73,7 @@
     margin:auto;
     cursor:pointer;
     border:none;
-    outline: none;
+    outline: none;;
 }
 
 /* section 2 */
@@ -164,7 +164,6 @@
     padding-top: 15px;
     border: none;
     margin: auto;
-    outline:none;
 }
 
 /* section 4 */
