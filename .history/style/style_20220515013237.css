@@ -84,7 +84,7 @@
 }
 .bookings-btn:hover
 {
-    opacity:0.7;
+    opacity:0.6;
 }
 
 /* section 2 */
@@ -240,10 +240,6 @@
     text-decoration: none;
 }
 .footer-list  ul li:hover
-{
-    color:aqua
-}
-.footer-list  ul li a:hover
 {
     color:aqua
 }
