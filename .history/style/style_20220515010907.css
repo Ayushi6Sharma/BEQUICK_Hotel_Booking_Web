@@ -261,7 +261,7 @@
 }
 .footer-list-3 i
 {
-    padding-top: 5px;
+    padding-top: 15px;
     color: white;
 }
 /* copyright */
@@ -271,6 +271,5 @@
     color:white;
     font:italic bold sans-serif;
     padding-bottom: 30px;
-    padding-top: 20px;
 }
 /* media queries */

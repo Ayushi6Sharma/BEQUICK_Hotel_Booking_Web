@@ -15,7 +15,7 @@ background-color:aliceblue;
     margin-top: 50px;
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     background-color:aliceblue;
     color:grey;
 }

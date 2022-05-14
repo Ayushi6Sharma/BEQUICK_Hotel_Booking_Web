@@ -169,6 +169,7 @@
     .about-content-1
     {
         font-size: 40px;
+        margin: auto;
     }
     .about-content-2
     {
@@ -238,6 +239,10 @@
     {
         /* margin: auto; */
         margin-top: 20px;
+    }
+    .mid-about-image
+    {
+        margin: auto;
     }
     .flex2-container2 > div
     {

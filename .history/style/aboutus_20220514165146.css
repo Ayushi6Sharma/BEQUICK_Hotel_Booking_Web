@@ -16,12 +16,9 @@ background-color:aliceblue;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    word-wrap:break-word;
     background-color:aliceblue;
     color:grey;
-}
-.about-1-area
-{
-    flex-basis: 500px;
 }
 .about-image
 {
@@ -33,7 +30,6 @@ background-color:aliceblue;
     font:bold 40px sans-serif;
     font-style: italic;
     margin-top: 30px;
-    text-align: center;
 }
 .about-content
 {
@@ -42,6 +38,4 @@ background-color:aliceblue;
     padding-top: 30px;
     margin-bottom: 20px;
     line-height: 30px;
-    word-wrap: break-word;
-    text-align: center;
 }

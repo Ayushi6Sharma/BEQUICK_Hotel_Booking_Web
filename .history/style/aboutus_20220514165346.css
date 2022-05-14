@@ -19,10 +19,6 @@ background-color:aliceblue;
     background-color:aliceblue;
     color:grey;
 }
-.about-1-area
-{
-    flex-basis: 500px;
-}
 .about-image
 {
     width:90%;
@@ -33,7 +29,7 @@ background-color:aliceblue;
     font:bold 40px sans-serif;
     font-style: italic;
     margin-top: 30px;
-    text-align: center;
+    border:1px solid black;
 }
 .about-content
 {
@@ -43,5 +39,5 @@ background-color:aliceblue;
     margin-bottom: 20px;
     line-height: 30px;
     word-wrap: break-word;
-    text-align: center;
+    border:1px solid black;
 }

@@ -44,4 +44,5 @@ background-color:aliceblue;
     line-height: 30px;
     word-wrap: break-word;
     text-align: center;
+    border:2px solid black;
 }

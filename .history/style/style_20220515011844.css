@@ -232,6 +232,10 @@
     color:aqua;
     margin-top:30px;
 }
+.footer-list
+{
+    flex-basis:200px;
+}
 .footer-list  ul li a
 {
     list-style-type: none;
