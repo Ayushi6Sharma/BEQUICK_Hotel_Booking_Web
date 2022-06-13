@@ -1,6 +1,10 @@
 /* index.html */
 @media screen and (max-width:480px){
     /* index.html */
+    .logo
+    {
+        text-align: center;
+    }
     .nav-list >li
     {
         width:100%;
@@ -124,6 +128,10 @@
 
 }
 @media screen and (min-width:480px) and (max-width:768px){
+    .logo
+    {
+        text-align: center;
+    }
     .nav-list >li
     {
         width:100%;

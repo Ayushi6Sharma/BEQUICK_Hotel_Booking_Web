@@ -62,7 +62,7 @@ textarea
 {
     width:250px;
     height: 60px;
-    background-image:linear-gradient(to right,black,aqua);
+    background-image:linear-gradient(to right,black,var(--color));
     color:white;
     border:none;
     border-radius: 40px;
@@ -91,20 +91,20 @@ textarea
     font-weight: bold;
     font-family: sans-serif;
 }
-.fa
+.falink .fa
 {
-    color:aqua;
+    color:var(--fa);
 }
 .contact-info-heading
 {
-    font-size: 30px;
+    font-size: 25px;
     font-family: sans-serif;
 }
 .contact-info-heading > div
 {
     padding-top: 20px;
     color:grey;
-    font-size: 25px;
+    font-size: 20px;
 }
 .social-contact >a
 {
